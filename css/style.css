@@ -1,0 +1,36 @@
+body {
+  background-color: #f0f2f5;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.metric-card {
+  border-radius: 12px;
+  transition: transform 0.2s;
+}
+
+.metric-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.07);
+  border: none;
+}
+
+canvas {
+  max-height: 280px;
+}
+
+.navbar-brand {
+  font-size: 1.3rem;
+}
+
+#currencyInfo span {
+  background: #f8f9fa;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 0.95rem;
+}
