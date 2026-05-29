@@ -7,6 +7,7 @@ Dashboard web desenvolvido em **HTML/CSS/JavaScript** utilizando **Chart.js**, c
 ## 👥 Equipe
 
 - Wanessa Santos - 861193
+- Cynthia Melo - 860095
 ---
 
 ## 🎯 Objetivo do Projeto
